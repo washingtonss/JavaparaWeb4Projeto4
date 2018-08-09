@@ -1,0 +1,189 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#todosite {
+    background-color: yellow;
+    width: 1200px;
+    height: 600px;
+    margin: auto;
+    border: solid blue 2px;
+    background-color:#fdf1cb;
+}
+#cabecalho {
+    height: 100px;
+    border-bottom: solid blueviolet 2px;
+}
+#cabecalho header h1 {
+    text-align: center;
+    font-size:80px;
+    font-family: Arial;	
+    font-weight: bold;
+   	
+    color:#fff;				
+    text-shadow: 0px 3px 0px #b2a98f,
+        0px 14px 10px rgba(0,0,0,0.15),
+        0px 24px 2px rgba(0,0,0,0.1),
+        0px 34px 30px rgba(0,0,0,0.1);	
+}
+h1 {
+    text-align: center;
+    font-size:25px;
+    font-family: Arial;	
+    font-weight: bold;
+   	
+    color:blueviolet;				
+    text-shadow: 0px 3px 0px #b2a98f,
+        0px 14px 10px rgba(0,0,0,0.15),
+        0px 24px 2px rgba(0,0,0,0.1),
+        0px 34px 30px rgba(0,0,0,0.1);	
+}
+
+#conteudo {
+    height: 450px;
+}
+#menus {
+    width: 150px;
+    float: left;
+    height: 100%;
+}
+#menus nav ol {
+    margin-left: 30px;
+    margin-top: 12px;
+}
+
+#menus nav ol li{
+    list-style-type: none;
+    font-size: 20px;
+}
+#menus nav ol li a{
+    text-decoration: none;
+    color:blueviolet;
+    font-family: Arial;
+    font-size:20px;
+    
+    font-weight: bold;
+   	
+    color:blueviolet;				
+    text-shadow: 0px 3px 0px #b2a98f,
+        0px 5px 5px rgba(0,0,0,0.15),
+        0px 5px 5px rgba(0,0,0,0.1),
+        0px 5px 5px rgba(0,0,0,0.1);	
+}
+#menus nav ol li a:hover{
+    text-decoration: underline;
+    background-color: yellow;
+    color: blue;
+}
+
+#central {
+    width: 150px;
+    float: right;
+    width: 1050px;
+    height: 100%;
+}
+
+#rodape {
+    height: 50px;
+     border-top: solid blueviolet 2px;
+}
+
+#login {
+    width: 300px;
+    background-color: bisque;
+    margin: auto;
+    margin-top: 150px;
+}
+table {
+    
+    background-color: bisque;
+    margin: auto;
+    margin-top: 15px;
+}
+
+.linhaespecialTable {
+    background-color: blueviolet;
+    color: white;   
+}
+
+form {
+    background-color: bisque;
+    margin: auto;
+    margin-top: 50px; 
+}
+#formAlteraUsuario {
+    width: 400px;
+    padding: 20px;
+    border: 2px solid blueviolet;
+    border-radius: 20px; 
+}
+#formNovoUsuario {
+        width: 400px;
+    padding: 20px;
+    border: 2px solid blueviolet;
+    border-radius: 20px; 
+}
+
+#formBairro {
+    width: 300px;
+    padding: 20px;
+    border: 2px solid blueviolet;
+    border-radius: 20px; 
+}
+
+#formUsuario {
+    width: 400px;
+    padding: 20px;
+    border: 2px solid blueviolet;
+    border-radius: 20px; 
+}
+#formCliente {
+	margin-top: 20px; 
+    width: 950px;
+    padding: 20px;
+    border: 2px solid blueviolet;
+    border-radius: 20px; 
+}
+
+label {
+    font-family: Arial;
+    font-size: 16px;
+    text-shadow: 2px 2px 2px blueviolet;
+    font-weight: bold;
+}
+input {
+    font-family: Arial;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+#foto {
+    height: 100px;
+    border-bottom: solid blueviolet 1px;
+    width: 100px;
+    float: right;
+	
+}
+#formVenda {
+	margin-top: 10px; 
+	border: solid blueviolet 2px;
+}
+#formItensVenda {
+	margin-top: 1px;
+	border: solid blueviolet 2px;
+}
+#tabelaItensVenda {
+    font-family: Arial;
+    font-size: 16px;
+    text-shadow: 2px 2px 2px blueviolet;
+    font-weight: bold;
+}
+
+
+
+#linguagem {
+    
+    margin-top: 20px;
+          
+}
